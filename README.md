@@ -174,6 +174,3 @@ Report จะแสดง:
 ISC
 
 ---
-
-สร้างด้วย ❤️ โดยใช้ Playwright และ JavaScript
-"# automated_testing-01" 
